@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jared Strader"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Research Scientist, SPARKlab, Department of Aeronautics and Astronautics, Massachusetts Institute of Technology"
+  location         :
+  email            : "jstrader@mit.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
