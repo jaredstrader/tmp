@@ -114,10 +114,11 @@ analytics:
 # Site Author
 author:
   name             : "Jared Strader"
-  avatar           : "/images/headshot_Aug2024" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist, SPARKlab, Department of Aeronautics and Astronautics, Massachusetts Institute of Technology"
+  avatar           : "/assets/images/headshot_Aug2024.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Research Scientist, MIT"
   location         :
   email            : "jstrader@mit.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=iCJpaNwAAAAJ&hl=en"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
