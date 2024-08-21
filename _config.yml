@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -113,12 +113,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jared Strader"
+  name             : "Jared ---"
   avatar           : "/assets/images/headshot_Aug2024.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Scientist, MIT"
   location         :
   email            : "jstrader@mit.edu"
-  googlescholar    : "https://scholar.google.com/citations?user=iCJpaNwAAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=iCJpaNwAAAAJ&hl=en"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,6 +138,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    # - label: "Google Scholar"
+    #   icon: "fas fa-fw fa-graduation-cap"
+    #   url: "https://scholar.google.com/citations?user=iCJpaNwAAAAJ&hl=en"
 
 # Site Footer
 footer:
