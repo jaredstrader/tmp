@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jared Strader"
-  avatar           : "/assets/images/headshot_Aug2024.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshot_linkedin.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Scientist, MIT"
   location         :
   email            : "jstrader@mit.edu"
@@ -225,6 +225,10 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# collections:
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
